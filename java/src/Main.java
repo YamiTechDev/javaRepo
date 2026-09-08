@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+        // 8 типов переменных в java
+
         byte varByte = 100;
         Short varShort = 32700;
         int varInt = 390000;

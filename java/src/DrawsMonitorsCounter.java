@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class drawsMonitorsCounter {
+public class DrawsMonitorsCounter {
 
     public static void main(String[] args) {
         int monitors, programmers, result;                                                      // объявляем переменные неоюходимые для работы

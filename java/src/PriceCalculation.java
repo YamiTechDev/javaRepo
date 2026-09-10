@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class priceCalculation {
+public class PriceCalculation {
     public static void main(String[] args) {
         double price, calculationPrice;
         int count; //Объявление переменных
